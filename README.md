@@ -1,8 +1,8 @@
 # Using PSi4-ForteCubeView
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?filepath=index.ipynb)  (notebook) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/109-2-compchem-lite/HEAD?filepath=index.ipynb)  (notebook) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?urlpath=lab) (lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/109-2-compchem-lite/HEAD?urlpath=lab) (lab)
 
 
 If you use `environment.yml`, then Binder will use a Miniconda distribution
