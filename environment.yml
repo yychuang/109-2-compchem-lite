@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - psi4/label/dev
   - conda-forge
+  - omnia
 dependencies:
   - python
   - numpy
@@ -12,6 +13,7 @@ dependencies:
   - ipywidgets
   - widgetsnbextension
   - scikit-image
+  - openmm
   - pip
   - pip:
     - nbgitpuller
