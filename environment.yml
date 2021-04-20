@@ -22,4 +22,5 @@ dependencies:
     - matplotlib
     - pythreejs
     - fortecubeview
+    - nglview
     
