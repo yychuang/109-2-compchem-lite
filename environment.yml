@@ -15,6 +15,7 @@ dependencies:
   - scikit-image
   - openmm
   - mdtraj
+  - pcmsolver
   - pip
   - pip:
     - nbgitpuller
