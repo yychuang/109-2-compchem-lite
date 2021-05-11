@@ -21,6 +21,7 @@ dependencies:
     - nbgitpuller
     - sphinx-gallery
     - pandas
+    - altair
     - matplotlib
     - pythreejs
     - fortecubeview
