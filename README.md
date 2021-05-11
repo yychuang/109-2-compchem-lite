@@ -13,17 +13,20 @@ to construct your `environment.yml` file to accomplish this.
 
 Psi4 Extension References:
 
-for TDDFT
+1. for TDDFT
 https://github.com/robertodr/tddft_psicon2020
 
-for Tutorials and PCMSOLVER
+2. for Tutorials and PCMSOLVER
 https://education.molssi.org/qm-tools/
 
-for xDH
+3. for xDH
 https://psi4-xdh.readthedocs.io/zh_CN/latest/motive.html
 
-for OpenFermion
+4. for OpenFermion
 https://quantumai.google/openfermion/install
+
+5. for Quantum Computing
+https://iwatobipen.wordpress.com/2019/06/30/quantum-computing-for-chemistry-rdkit-psi4-qiskit/
 
 Working
 * Notebook 
